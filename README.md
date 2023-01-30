@@ -15,8 +15,7 @@
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jay9874&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=Jay9874&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay9874&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
