@@ -10,5 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend some times thinking about black holes, time-travel, parallel worlds and beyond.
 
-
+### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jay9874)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay9874)](https://github.com/anuraghazra/github-readme-stats)
